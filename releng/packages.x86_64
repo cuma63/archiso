@@ -6,7 +6,7 @@ refind-efi
 ##xorg packages
 xorg-server 
 xorg-xinit 
-xorg-server-utils
+#xorg-server-utils
 
 ##video drivers
 mesa
@@ -21,7 +21,7 @@ wireless_tools
 ##system
 python2-xdg
 virtualbox-guest-utils
-virtualbox-guest-modules
+virtualbox-guest-modules-arch
 xf86-input-keyboard
 xf86-input-synaptics
 xf86-input-vmmouse
@@ -34,7 +34,8 @@ polkit-gnome
 gnome-keyring
 
 ##theme
-numix-themes
+#numix-themes
+papirus-icon-theme
 
 ##fonts
 ttf-dejavu
