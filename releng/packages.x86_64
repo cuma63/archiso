@@ -12,6 +12,7 @@ xorg-apps
 ##video drivers
 mesa
 xf86-video-nouveau
+xf86-video-intel
 
 ##networking
 networkmanager
