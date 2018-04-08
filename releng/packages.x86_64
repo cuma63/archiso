@@ -1,6 +1,6 @@
 ##UEFI
-gummiboot
-prebootloader
+#gummiboot
+#prebootloader
 refind-efi
 
 ##xorg packages
