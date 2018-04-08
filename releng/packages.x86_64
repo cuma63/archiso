@@ -7,6 +7,7 @@ refind-efi
 xorg-server 
 xorg-xinit 
 #xorg-server-utils
+xorg-apps
 
 ##video drivers
 mesa
